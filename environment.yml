@@ -1,0 +1,11 @@
+name: bangla-nlp
+dependencies:
+  - python=3.9
+  - bnltk
+  - pybangla
+  - numpy
+  - pandas
+  - pytesseract
+  - pip
+  - pip:
+      - opencv-python

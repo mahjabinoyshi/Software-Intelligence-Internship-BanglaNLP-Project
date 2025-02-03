@@ -1,0 +1,6 @@
+python
+pytesseract  # For OCR
+opencv-python  # If using OpenCV for OCR preprocessing
+bnlkt  # Bangla NLP Toolkit
+PyBangla  # Bangla NLP Library
+
